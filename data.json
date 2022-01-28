@@ -1,0 +1,107 @@
+[
+    {
+        " id": 1,
+        "title": "CAMPING OUT ON THE GREAT WALL OF CHINA",
+        "details": "How many French wind engineers does it take to find the Great Wall after midnight? Just one, and his name is Hubert. We tried to camp on the Great Wall two weekends in a row, mainly because our first attempt had us camping at 1am on a lovely plateau. This was because we couldn’t find the wall anywhere.  I know losing a giant monument that is viewable from space seems unlikely, but I assure you that we were unable to locate it during our hike. When we woke up the next day, we realized that we had climbed the wrong mountain ridge. This is what happens when you try to find a giant wall in the dark, without a French wind engineer named Hubert. This is also what happens when the only directions we were given were to hire a van to take us to “the place with all the fish restaurants.” I suppose our predicament wasn’t too much of a surprise. We did find the wall the next day, but it was close to dusk when we started our almost vertical climb, so we all resolved to come back the next week since we now knew where the right trailhead began.",
+        "img": "https://images.pexels.com/photos/1586205/pexels-photo-1586205.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 123176,
+        "rating": 5
+    },
+    {
+        " id": 2,
+        "title": "3 Days Road Trip Itinerary For Kumamoto And Aso, Japan",
+        "details": " I decided to change the pace a little and met up with a friend who I hadn't seen for 10 years since school. We decided to meet at the Kumamoto arcade area after I arrived in the city. It was definitely a good change of pace after traveling alone in this country for so long. Since my friend has been an English teacher in the JET program for a year now, a little local touch to the trip was more than welcome. Now the time has come to go on a good old road trip with me and my friends around the Kumamoto prefecture. Enjoy.",
+        "img": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 8525,
+        "rating":5
+    },
+    {
+        " id": 3,
+        "title": "Getting From Kyoto To Kumamoto",
+        "details": "From Kyoto, I took a Shinkansen ride to Shin-Osaka and transited to the one going toward Nagasaki. In only 3 hours, I was in the Kumamoto city area by 4 PM. I went and walked around the city for a couple of hours and attempted to visit the famous Kumamoto castle but by the time I got there (5:30 PM), it was already closed. I highly recommend you get the JR Pass as you will get the best bang for your buck if you want to travel around Japan on a bullet train. The JR Pass is perfect for those that are planning to travel in Japan for longer than 7 days.",
+        "img": "https://images.pexels.com/photos/2187605/pexels-photo-2187605.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 8585,
+        "rating":5
+    },
+    {
+        " id": 4,
+        "title": "8 Awesome Things To Do In Kyoto During Gion Matsuri",
+        "details": "For the first time in my travel, I came to Kyoto without a plan. I decided to give myself some rooms for whatever opportunities that may come my way, and man, was I glad I did it. It was July 2014 when I was there and in July every year, Kyoto celebrates the Gion Matsuri, one of the most famous festivals in Japan. The city is crowned with a parade on the 17th and 24th of July, and 2 nights leading to the parade, the streets of Gion district are reserved for pedestrians and street vendors. The streets are lined with night stalls selling all kinds of food and sweets. I was there (without knowing) from 15th - 17th July and I was honored to be able to capture the whole festival with my camera. With that, and a few popular places (with my own twist) I went, let's enjoy the journey into this ancient city together.",
+        "img": "https://images.pexels.com/photos/2339009/pexels-photo-2339009.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 8554,
+        "rating":4.5
+    },
+    {
+        " id": 5,
+        "title": " Visit The Fushimi Inari Taisha At Night",
+        "details": "Now comes the creepy part of the trip. Since the Fushimi Inari Taisha is a no brainer when it comes to Kyoto attractions, I decided to create a little twist of my own for the trip. I decided to visit this place at night.This was one of the best decision I made. The darkness added a very creepy atmospheric feel to what is supposed to be a boring place (as many people claimed).I was there at around 7 pm and even though there were people walking around, I was alone most of the time as I walked up the stairs.Although it was nice, there were times when it was creepy as hell. Like that one time when I realized I was walking in an old cemetery.There were several times I heard footsteps coming toward me from the back and I had to gather all the courage I had to turn back and see where it was from. Turned out, it was an old janitor, but still... it was creepy as hell",
+        "img": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 5858,
+        "rating":4.3
+    },
+    {
+        " id": 6,
+        "title": "3 Days ZhangJiaJie Itinerary In China",
+        "details": "After a 3 days trip to Zhangjiajie, China traveling alone, I can say that it wasn't as overwhelming as expected. Information in English about this place is very limited and that may have contributed to the early stress I had while planning the trip. To ease this for anyone who is interested in traveling to Zhangjiajie, I have compiled all the activities I did into an itinerary that you can easily follow to get the most out of it. 2 days in Zhangjiajie national park and a day at the Tianmen mountain is more than enough to see most of the attractions but if you want to fully explore this mystical place, give your self 3 days at the Zhangjiajie national park. If your level of fitness is moderate or high, do opt-in for a walk (going down mountains is easier) instead of easier routes via elevators and cable cars to fully explore all the trails and the hidden gems this place got to offer.",
+        "img": "https://images.pexels.com/photos/189833/pexels-photo-189833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 5272,
+        "rating":3
+    },
+    {
+        " id": 7,
+        "title": "The Ultimate Travel Guide To Avatar's Mountain (Zhangjiajie), China",
+        "details": "Traveling to Zhangjiajie can be very confusing at first because of the lag of information in English and the not-to-scale English map available online that can throw you off your feet. I have gone through that myself and after experiencing it all first hand, here are the things I wish I knew before traveling to Zhangjiajie.ZhangJiaJie is a city which situated in the Hunan province in China. The airport is situated in the Zhangjiajie city. ZhangJiaJie city and Zhangjiajie national park (where the Avatar's mountains are) is not the same and they are not near each other as well. 45 minutes drive between the two. WuLingYuan is a small town which situated right at the entrance of the Zhangjiajie national park, so this is a good place to stay when visiting the park. Tianmenshan mountain is not in the Zhangjiajie national park. The entrance is through the Zhangjiajie city via a cable car, so spare a day or two to stay at the Zhangjiajie city.",
+        "img": "https://images.pexels.com/photos/2846034/pexels-photo-2846034.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 585852,
+        "rating":3.4
+    },
+    {
+        " id": 8,
+        "title": "20 Best Places To Visit In South America In 2022",
+        "details": "South America covers an area of over 17,840,000 square kilometers (6,890,000 sq miles). It consists of 12 countries and home to many diverse civilizations and indigenous communities with histories stretched for centuries all the way back before the arrival of the Europeans. With such a large area, diverse populations, and amazing cultures, it can be quite overwhelming to pick the best places to visit when you are planning your first trip to South America. Well, don't worry. I've got your back. After spending over 6 months traveling around South America on land, I have decided to compile a list of the best places to visit based in South American on my personal experiences.",
+        "img": "https://images.pexels.com/photos/2017747/pexels-photo-2017747.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 65645,
+        "rating":1
+    },
+    {
+        " id": 9,
+        "title": "6 Months South America Itinerary",
+        "details": "Traveling around South America for 6 months was one of the longest trips I have ever done in my life. Started from Colombia, I traveled through 7 countries from top to bottom, witnessed as the landscapes shifted from tropical to desert and from desert to mountainous, all in one trip. It was one of the best trips I have done so far. I went into South America without knowing a word of Spanish and I came out pretty well-versed at ordering cafe con leche and get the coffee I want 😂. Being inspired by all the different cultures I have experienced in South America, I have decided to write a complete backpacking itinerary for South America for those who have the luxury of time to get lost in one of the most vibrant and interesting continents in the world. The itinerary begins in Colombia as we traversed along the western coast of the continent through Ecuador, Peru, Bolivia, Chile, all the way to the end of the world in Ushuaia, Argentina while we traverse back from the east to Brazil.",
+        "img": "https://images.pexels.com/photos/4172523/pexels-photo-4172523.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 34667,
+        "rating":2
+    },
+    {
+        " id": 10,
+        "title": "3 Months Southeast Asia Itinerary",
+        "details": "Southeast Asia is one of the most popular backpacking spots in the world. With its low cost of travel, diversity and unique cultures, all within close proximity, Southeast Asia is the perfect destination for travelers to spend 3 months traveling around without getting bored and blowing a hole in your wallet. Southeast Asia is also considered to be one of the easiest places to backpack in the world due to the easy-going mentality and often smiley and helpful locals. If you are just starting out as a backpacker, Southeast Asia is the prime place for you to hone your crafts and start your journey as a traveler. Whether you are a newbie or an avid traveler, there is something for everyone in Southeast Asia and to help you get started, here you will find a 3 months complete backpacking itinerary complete with a travel guide on things to do, where to stay, and everything you need to know before traveling to Southeast Asia. Without further ado, let's begins!",
+        "img": "https://images.pexels.com/photos/5605762/pexels-photo-5605762.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 876,
+        "rating":3
+    },
+    {
+        " id": 11,
+        "title": "Is Southeast Asia Safe?",
+        "details":"Southeast Asia is generally safe but like all big metropolitan areas, petty thefts can happen so be aware of your belongings at all time, especially in big cities like Kuala Lumpur, Hanoi, Ho Chi Minh City, and Bangkok. I have heard reports of people getting their phones snatched from their hands in Ho Chi Minh City by a passing motorbike so avoid using your phone on the streets. Theft doesn't just come from bad locals, it can come from other bad backpackers as well. Southeast Asia, due to how cheap it is, attracts all kinds of weird characters from those that pick fights in bars, to those that just steal money outright from other backpackers or hostel reception. Keep your wallet and valuables with you at all time, even when you are in a hostel. Do not leave your valuables unattended when you go to the bathroom or a shower. I have heard many reports of people getting their money stolen from their wallet in a hostel when they left it on the bed and went to the bathroom. Scams are also quite common in Southeast Asia especially at the land borders so be extra vigilant when you are crossing the border in Southeast Asia. A good rule of thumb is to be suspicious of over-friendly, speaking perfect English, people that approach you. Local taxis are also known to scam tourists so if you hail a metered taxi, make sure that they use it, or if it's unmetered, agree on a price before getting on. The most serious safety issue in Southeast Asia is road accidents. You have no idea how many foreigners covered in bandages I've seen in Southeast Asia. If you are renting a vehicle, go slow, wear helmets, and do not risk it if you are not a strong driver. Vang Vieng used to be known as a drug-fueled party town and the government is trying very hard to crack down on that and even though you will find drugs available out in the open pretty easily in Vang Vieng, do not think that it is ok to do it in public. I have heard reports that the police extorted 500 USD from a group of tourists who were smoking weed outside of a hostel. If it's illegal in your home country, it's probably illegal here too and the police can do whatever they want including throwing you in jail if you do not pay them." ,
+        "img": "https://images.pexels.com/photos/3770287/pexels-photo-3770287.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 2345,
+        "rating":5
+    },
+    {
+        " id": 12,
+        "title": "Internet In Southeast Asia",
+        "details": "Since you will be traveling over 9 countries and Southeast Asia is not exactly Europe, getting connected via reliable WIFI or through local sim cards can be quite tricky. For one, you will need 9 sim cards if you want to be connected all the time, which is not economical and wrapping your heads around all the data packages in these countries will drive you insane. WIFI is widely available in most hostels/hotels nowadays in all countries except Brunei and Myanmar. Having a WIFI and having a usable one is a different story though which is often the case in some establishments in Southeast Asia that claim they have WIFI. That said, you will likely have no trouble staying connected in countries like Singapore, Malaysia and some parts of Thailand and Vietnam. My recommendation is to buy local sim cards only in the countries you will be staying the longest. With my itinerary, I would suggest you buy local sim cards for Thailand, Malaysia and maybe Indonesia.",
+        "img": "https://images.pexels.com/photos/2246803/pexels-photo-2246803.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 6520,
+        "rating":3
+    },
+    {
+        " id": 13,
+        "title": "What To Pack For Southeast Asia",
+        "details": "As you know, I am a light traveler and packing light for a trip like this is an art in and of itself. Here are a few tips on what to pack for your trip to Southeast Asia: Walking/Hiking Shoes: I love walking around new cities or go on a small hike and so I highly recommend you take a good pair of comfortable shoes with you on this trip. My go-to pair of shoes is the Timberland 3-Eye Classic Boat Shoes that I always wear when I am out and about, even on long hikes. Breathable Shirts: It can be quite hot outside when the sun is out and the sky is clear so be sure to pack multiple breathable shirts that you can wear when you are out and about. Shorts/Jeans: Since you will be walking around a lot more when you are traveling, I highly recommend you pack a few pairs of breathable shorts as well as some Levi's jeans for when it gets a little cooler outside. For women, leggings are awesome for both hot and cold climates so be sure to pack some too. Outer Shell Jacket: An outer shell jacket is great for when it is rainy or a little windy outside. I highly recommend the Columbia Watertight Jacket (for women). It's breathable, light to carry, and best of all, it comes in this awesome orange color. Microfiber Towel: A Microfiber towel is the perfect backpacker's towel as it is light, easy to dry, and can be compressed to save space in your backpack. Swim Suits: Swim trunk is a must-pack item if you are planning to visit Southeast Asia in the summer just in case there is a body of water you can jump in. Camera: You should also pack a good camera for your trip so that you can capture all the beautiful experiences you might have while you travel. I recommend the Sony a7C camera together with the Sony 24-70mm f2.8 GM lens which is probably the highest performance camera and lens combination you can get right now. Power Bank: Keep your electronic charged on-the-go with a 20,000+ mAh Power Bank. Water Bottle: Hydro Flask Trail Water Bottle is a great insulated water bottle to have with you in cities or on hiking trails. It is lightweight and can keep your water cold/warm for more than 12 hours. A total game-changer. Universal Adapter: You just need one universal adapter to plug in your electronics in any country you are visiting. Packing Cubes: Packing Cubes will help you save space in your backpack as well as keep all your belongings organized. A Daypack: Langly Alpha Globetrotter is my go-to everyday camera backpack. It's large enough to carry all my travel gear, it comes with plenty of slots and pouches, and it is stylish as hell! A Large Backpack: You will need a large backpack to carry all of this stuff with you. I recommend you get the Osprey Atmos AG 65L backpack. With the excellent weight distribution and the lifetime guarantee, you can never go wrong with Osprey. SEE MY PACKING LIST: 60 TRAVEL ESSENTIALS.",
+        "img": "https://images.pexels.com/photos/460376/pexels-photo-460376.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "price": 8956,
+        "rating":2.5
+    }
+    
+]
